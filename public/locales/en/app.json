@@ -1,0 +1,25 @@
+{
+    "managingCampaigns": "Managing Campaigns",
+    "eventType": {
+        "upcoming": "Upcoming Campaigns",
+        "live": "Live Campaigns",
+        "past": "Past Campaigns"
+    },
+    "date": "Date",
+    "campaign": "Campaign",
+    "actions": "Actions",
+    "view": "View",
+    "viewPricing": "View Pricing",
+    "CSV": "CSV",
+    "report": "Report",
+    "scheduleAgain":"Schedule Again",
+    "update": "Update",
+    "close": "Close",
+    "today": "Today",
+    "daysAgo": "{{days}} days Ago",
+    "afterdays": "After {{days}} days",
+    "week": "Week",
+    "month": "Month",
+    "year": "Year",
+    "months": "Months"
+}

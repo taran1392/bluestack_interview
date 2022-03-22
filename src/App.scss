@@ -1,5 +1,9 @@
+ 
+$primary: #2b416c;
+@import 'bootstrap/dist/css/bootstrap.min.css';
 .App {
   text-align: center;
+  background-color: yellow;
 }
 
 .App-logo {
@@ -35,4 +39,37 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.app-tabs {
+  padding:1rem;
+  color: $primary;
+  box-sizing: border-box;
+}
+
+.app-tabs.active {
+  color: #85a619;
+  border-bottom: 2px solid #85a619;
+
+}
+
+
+.icon-btn {
+  img {
+    width: 1.5rem;
+    height:1.5rem;
+    margin-right: 5px;
+  }
+}
+
+.modal.show {
+  display: block;
+}
+
+.font-weight-bold {
+  font-weight: bold;
+}
+
+.font-weight-light {
+  font-weight: lighter;
 }

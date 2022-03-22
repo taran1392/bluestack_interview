@@ -1,0 +1,25 @@
+{
+    "managingCampaigns": "Kampagnen verwalten",
+    "eventType": {
+        "upcoming": "Kommende Kampagnen",
+        "live": "Live-Kampagnen",
+        "past": "Vergangene Kampagnen"
+    },
+    "date": "Datum",
+    "campaign": "Kampagne",
+    "actions": "Aktionen",
+    "view": "Sicht",
+    "viewPricing": "Preise anzeigen",
+    "CSV": "CSV",
+    "report": "Prüfbericht",
+    "scheduleAgain":"Planen Sie erneut",
+    "update": "Aktualisieren",
+    "close": "Nah dran",
+    "today": "Heute",
+    "daysAgo": "{{days}} Tage vor",
+    "afterdays": "nach dem {{days}} Tage",
+    "week": "Woche",
+    "month": "Monat",
+    "year": "Jahr",
+    "months": "Monate"
+}
